@@ -1,0 +1,12 @@
+d:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.exe.config
+d:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.exe
+d:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.pdb
+d:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.csprojResolveAssemblyReference.cache
+d:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.exe
+d:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.pdb
+C:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.exe.config
+C:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.exe
+C:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.pdb
+C:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.exe
+C:\app\my\EnumColor\EnumColor\bin\Debug\EnumColor.pdb
+C:\app\my\EnumColor\EnumColor\obj\Debug\EnumColor.csprojResolveAssemblyReference.cache
